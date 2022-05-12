@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ANDROID2022</string>
+    <string name="call">Llamar</string>
+    <string name="sms">SMS</string>
+</resources>
